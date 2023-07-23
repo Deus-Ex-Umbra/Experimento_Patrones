@@ -1,0 +1,5 @@
+C:\Users\USUARIO\Desktop\Experimento_Patrones\Intermediate\Build\Win64\UE4Editor\Development\Experimento_Patrones\Definitions.Experimento_Patrones.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\USUARIO\Desktop\Experimento_Patrones\Source\Experimento_Patrones/EstrategiaMesa.h
+C:\Users\USUARIO\Desktop\Experimento_Patrones\Intermediate\Build\Win64\UE4Editor\Inc\Experimento_Patrones\EstrategiaMesa.generated.h

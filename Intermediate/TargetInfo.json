@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Experimento_Patrones",
+			"Path": "C:\\Users\\USUARIO\\Desktop\\Experimento_Patrones\\Source\\Experimento_Patrones.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Experimento_PatronesEditor",
+			"Path": "C:\\Users\\USUARIO\\Desktop\\Experimento_Patrones\\Source\\Experimento_PatronesEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

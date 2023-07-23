@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Experimento_Patrones.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FDBD3FD5-585A-4192-9722-1C5BBD4CE170}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Experimento_Patrones.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Experimento_PatronesEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{B798A605-723E-44D0-9350-2BE1AAC91A8C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Experimento_Patrones">
+      <UniqueIdentifier>{44FF31D1-FA6E-44BD-94B4-CA5F14A64F92}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Experimento_Patrones\EstrategiaAscenderMesa.cpp">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Experimento_Patrones\EstrategiaAscenderMesa.h">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Experimento_Patrones\EstrategiaDesarmarMesa.cpp">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Experimento_Patrones\EstrategiaDesarmarMesa.h">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Experimento_Patrones\EstrategiaMesa.cpp">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Experimento_Patrones\EstrategiaMesa.h">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Experimento_Patrones\EstrategiaMoverMesa.cpp">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Experimento_Patrones\EstrategiaMoverMesa.h">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Experimento_Patrones\Experimento_Patrones.Build.cs">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Experimento_Patrones\Experimento_Patrones.cpp">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Experimento_Patrones\Experimento_Patrones.h">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Experimento_Patrones\Experimento_PatronesGameModeBase.cpp">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Experimento_Patrones\Experimento_PatronesGameModeBase.h">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Experimento_Patrones\FabricaDeMesa.cpp">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Experimento_Patrones\FabricaDeMesa.h">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Experimento_Patrones\Mesa.cpp">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Experimento_Patrones\Mesa.h">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Experimento_Patrones\MesaCuadrada.cpp">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Experimento_Patrones\MesaCuadrada.h">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Experimento_Patrones\MesaRedonda.cpp">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Experimento_Patrones\MesaRedonda.h">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Experimento_Patrones\MesaTriangular.cpp">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Experimento_Patrones\MesaTriangular.h">
+      <Filter>Source\Experimento_Patrones</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
